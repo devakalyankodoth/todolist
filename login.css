@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("img1.jpg");
+    background-size: cover;
+
+}
+form{
+    float:right;
+    background-color: yellow;
+    width: 200px;
+    margin-left: 100px;
+    padding: .5rem;
+    font-size: 15px;
+    border: 1px solid white;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+button{
+    background: blue;
+    width: 70px;
+    height: 30px;
+    color: white;
+}
+h1{
+    float: right;
+    color: aqua;
+    font-size: 100px;
+    font-style: italic;
+    padding-bottom: 10rem ;
+}
+img{
+        width: 300px;
+        height: 300px;
+}
